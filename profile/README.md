@@ -5,7 +5,7 @@
 </p>
 
 
-# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) // 2026–2027 //
+# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) // 2026–27
 
 <div align="center">
 
