@@ -5,11 +5,11 @@
 </p>
 
 
-# 🖥️ DAM1 // 2026–2027
+# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) // 2026–2027 //
 
 <div align="center">
 
-### **🚀 Desarrollo de Aplicaciones Multiplataforma (DAM)**
+## **🚀 Lenguajes de Marcas y Sistemas de Gestión de Información 🚀**
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 Bienvenidos
+### 👋 Bienvenidos
 
 Esta es la organización de GitHub que utilizaremos durante el curso **2026–2027** para trabajar las prácticas, proyectos y materiales de **2º de Sistemas Microinformáticos y Redes (SMR)**.
 
