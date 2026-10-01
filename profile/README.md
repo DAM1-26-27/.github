@@ -1,6 +1,6 @@
 <p align="center">
   <img src="DAM1_GHportada.png"
-       alt="DAM1 2026-2027 · Desarrollo de Aplicaciones Multiplataforma"
+       alt="DAM1 2026-2027" Desarrollo de Aplicaciones Multiplataforma"
        width="75%">
 </p>
 
